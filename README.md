@@ -1,5 +1,5 @@
 # PROJECT-5_MACHINE_LEARNING
-![foto](diamond.JPG)
+![foto](https://github.com/Lydia-Arocena/PROYECTO-5_MACHINE_LEARNING/blob/main/diamond.jpg)
 
 # OBJETIVE:
 With this project I am taking part in a Kaggle competition about predicting diamond prices.
